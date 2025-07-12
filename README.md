@@ -32,5 +32,3 @@ This is a simple dice game built using React. The goal of the game is to get all
 2. Run `npm install`
 3. Run `npm start` to launch the game in the browser
 
-## Folder Structure
-
